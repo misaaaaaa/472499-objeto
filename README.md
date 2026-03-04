@@ -26,6 +26,8 @@ Programa del curso: [./archivos/objeto-programa.pdf](./archivos/objeto-programa.
 
 ## Evaluaciones
 
+Nota de presentación se calcula según tres evaluaciones
+
 1. Primera visualización en Processing
 
 2. Construcción de datalogger
@@ -33,6 +35,10 @@ Programa del curso: [./archivos/objeto-programa.pdf](./archivos/objeto-programa.
 3. Anteproyecto
 
 Todas las evaluaciones contemplan un aspecto de su evaluación el avance de proceso en su bitácora de GitHub
+
+Asistencia 70%
+
+Nota final: 30% nota de examen + 70% nota de presentación
 
 ## Bibliografía obligatoria
 
@@ -58,11 +64,11 @@ Todas las evaluaciones contemplan un aspecto de su evaluación el avance de proc
 
 * Patches PD para sonificación <https://github.com/interspecifics/bio-exploraciones/tree/main/Automatonism_Tutorial>
 
-* Ortega y Gasset: Ensayo de estética a modo de Prólogo 📘 <https://drive.google.com/file/d/1J5pgiKQzw8t0CKJz6tit1hILW7Pw25qg/view?usp=drive_link>
+* 📘 Ortega y Gasset: Ensayo de estética a modo de Prólogo <https://drive.google.com/file/d/1J5pgiKQzw8t0CKJz6tit1hILW7Pw25qg/view?usp=drive_link>
 
-* Graham Harman: La Tercera Mesa 📘 <https://drive.google.com/file/d/1TUO6qJsM8eRhMOCqotDf9JHZkNk53ggb/view?usp=drive_link>
+* 📘 Graham Harman: La Tercera Mesa<https://drive.google.com/file/d/1TUO6qJsM8eRhMOCqotDf9JHZkNk53ggb/view?usp=drive_link>
 
-* Yuk Hui: ¿Qué es un objeto digital? 📘 <https://drive.google.com/file/d/1Im7rXM7VRsU0kc3dTph2kSMmRbEARIi5/view?usp=drive_link>
+* 📘 Yuk Hui: ¿Qué es un objeto digital? <https://drive.google.com/file/d/1Im7rXM7VRsU0kc3dTph2kSMmRbEARIi5/view?usp=drive_link>
 
 * The Coding Train <https://thecodingtrain.com/>
 
