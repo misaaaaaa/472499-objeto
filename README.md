@@ -7,7 +7,7 @@ Programa del curso: [./archivos/objeto-programa.pdf](./archivos/objeto-programa.
 
 |     sesión    | fecha |                                tema                               |
 |:-------------:|:-----:|:-----------------------------------------------------------------:|
-|             1 | 12-03 | bienvenida, programa, objetivos (concepto/técnica/documentación)  |
+|             1 | 12-03 | bienvenida, programa, objetivos (metáfora/técnica/documentación)  |
 |             2 | 19-03 | ¿qué es un objeto? introducción OOO, caminar es un objeto, GitHub |
 |             3 | 26-03 | cómo construir una metáfora                                       |
 |             4 | 02-04 | uso de arrays en programación, aplicación sensor logger           |
@@ -26,7 +26,7 @@ Programa del curso: [./archivos/objeto-programa.pdf](./archivos/objeto-programa.
 
 ## Evaluaciones
 
-Nota de presentación se calcula según tres evaluaciones
+Nota de presentación se calcula según tres evaluaciones:
 
 1. Primera visualización en Processing
 
@@ -71,4 +71,3 @@ Nota final: 30% nota de examen + 70% nota de presentación
 * 📘 Yuk Hui: ¿Qué es un objeto digital? <https://drive.google.com/file/d/1Im7rXM7VRsU0kc3dTph2kSMmRbEARIi5/view?usp=drive_link>
 
 * The Coding Train <https://thecodingtrain.com/>
-
