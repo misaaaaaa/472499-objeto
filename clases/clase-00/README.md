@@ -25,4 +25,5 @@ Párrafos que les gustaron, palabras que no entendieron, reflexión sobre lo que
 
 ### Revisar el texto "La estética como cosmología"
 
+<https://github.com/misaaaaaa/472499-objeto/blob/main/archivos/harman-laesteticacomocosmologia.pdf>
 Párrafos que les gustaron, palabras que no entendieron, reflexión sobre lo que leyeron
