@@ -1,5 +1,7 @@
 # Clase 00
 
+- Registro clase (sobre GitHub y Markdown): <https://youtu.be/wt5P4xjyLiU>
+
 - Revisión de programa del curso
 - Comentario sobre "Caminar es un objeto" <https://revistaentorno.cl/caminar-es-un-objeto/>
 - Revisión La Tercera Mesa
@@ -7,7 +9,7 @@
 - Comentario sobre notas y asistencias
 - Situación MVP
 - Creación de repositorios en GitHub con ejercicio de 10 palabras
-- Tarea: leer "La estética como cosmología" de Graham Harman
+- Tarea: leer "La estética como cosmología" de Graham Harman [Link](../../archivos/harman-laesteticacomocosmologia.pdf)
 
 - Guía de MarkDown <https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
 
