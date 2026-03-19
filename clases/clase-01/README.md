@@ -24,7 +24,7 @@ Se puede agregar la foto de un perro arrastrando, pero es mejor evitarlo
 
 ![perro](https://github.com/user-attachments/assets/d10ea34f-bd36-4066-a4a7-973e02e844a2)
 
-Test de un gif
+Test de un gif. A Manuel no le funcionaba porque el archivo de origen tenía un espacio.
 
 ![test gif](./gif-test.gif)
 
@@ -32,4 +32,8 @@ Test de un gif
 
 ![Que no es un objeto](./quenoes-objeto.jpg)
 
+## Encargo para clase02
 
+* Analizar las obras de Mateo Cereceda y Gabriela Inostroza según el punto de vista de la Ontología Orientada a Objetos y el concepto de metáfora.
+
+* Elegir dos objetos. Sacar una foto  y mencionar 10 cualidades de cada uno. Como tip, para encontrar propiedades más interesantes, se sugiere nombrar las diez, luego escribir otras diez, y desechar las primeras
