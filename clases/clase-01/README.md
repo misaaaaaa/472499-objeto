@@ -34,7 +34,7 @@ Test de un gif. A Manuel no le funcionaba porque el archivo de origen tenía un 
 
 ## Encargo para clase02
 
-* Analizar las obras de Mateo Cereceda y Gabriela Inostroza según el punto de vista de la Ontología Orientada a Objetos y el concepto de metáfora.
+* Analizar las obras de Mateo Cereceda y Gabriela Inostroza (Exhibidas en Galería UNIACC - Analog ROOT) según el punto de vista de la Ontología Orientada a Objetos y el concepto de metáfora.
 
 * Elegir dos objetos. Sacar una foto  y mencionar 10 cualidades de cada uno. Como tip, para encontrar propiedades más interesantes, se sugiere nombrar las diez, luego escribir otras diez, y desechar las primeras
 
