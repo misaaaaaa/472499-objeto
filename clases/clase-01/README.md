@@ -37,3 +37,5 @@ Test de un gif. A Manuel no le funcionaba porque el archivo de origen tenía un 
 * Analizar las obras de Mateo Cereceda y Gabriela Inostroza según el punto de vista de la Ontología Orientada a Objetos y el concepto de metáfora.
 
 * Elegir dos objetos. Sacar una foto  y mencionar 10 cualidades de cada uno. Como tip, para encontrar propiedades más interesantes, se sugiere nombrar las diez, luego escribir otras diez, y desechar las primeras
+
+No obligatorio: en [../../archivos/](../../archivos/ortega-ensayo-de-estetica-a-manera-de-prologo_compress-1.pdf) encontrarén el texto "Ensayo de estética a modo de prólogo"
