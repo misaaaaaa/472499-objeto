@@ -2,7 +2,7 @@
 
 Libro de George Perec <https://www.libreriadelgam.cl/libro/lugares_129673>
 
-Libro recomendado: el poder del arte <https://uniacc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99474037607686&context=L&vid=56UNIACC_INST:UNIACC&lang=es&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=ALL&query=any,contains,el%20poder%20del%20arte&offset=0>
+Libro recomendado: El poder del arte (Markus Gabriel) <https://uniacc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99474037607686&context=L&vid=56UNIACC_INST:UNIACC&lang=es&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=ALL&query=any,contains,el%20poder%20del%20arte&offset=0>
 
 ## Texto: De la información a la visualización
 
