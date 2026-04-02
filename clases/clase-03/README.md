@@ -46,4 +46,4 @@ Con OPEN Meteo encontramos datos de temperaturas liberados. https://open-meteo.c
 
 - Traer un sketch hecho en processing con datos propios recogidos. Incluir estos datos en un archivo .csv en el github. Pueden ayudarse de IA
 
-Nota: No he podido recuperar la grabación de la sesión
+Nota: La grabación de la sesión se hoy se encuentra disponible en el curso (e-campus) -> Sesiones sincrónicas -> Grabaciones -> Botón video o presentación
