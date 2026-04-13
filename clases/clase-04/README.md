@@ -158,3 +158,8 @@ Feeling Climate Crisis <https://www.gauravpatekar.in/feeling-climate-crisis>
 
 Tele Present Water <https://www.dwbowen.com/telepresentwater>
 
+### Video registro
+
+Por publicar cuando tenga mejor internet.
+
+<https://youtu.be/RtEpY9N_5Aw>
