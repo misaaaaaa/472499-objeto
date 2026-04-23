@@ -60,3 +60,7 @@ void setup() {
   rectMode(CENTER);
 }
  ```
+
+## Bitácora de ejemplo
+
+<https://github.com/disenoUDP/dis8644-2025-1-procesos/tree/main/10-Bernardita-lobo/sesion-07a
