@@ -40,3 +40,33 @@ Para cargar imágenes, usamos esta estrucutra
  Para cargar una imagen que está en otra carpeta, debo primero subir una jerarquía de archivo, lo que se hace con `../`. Esto se llama ruta relativa
 
  ![gif de prueba](../clase-01/gif-test.gif)
+
+ ## Como agregar códigos de processing
+
+Para que los bloques de código tengan estilo, después de las primeras comillas escribo el lenguaje de programación
+
+ ` ```processing `
+
+ ```processing
+ /**
+ * Mouse 2D. 
+ * 
+ * Moving the mouse changes the position and size of each box. 
+ */
+ 
+void setup() {
+  size(640, 360); 
+  noStroke();
+  rectMode(CENTER);
+}
+
+void draw() {
+  background(51); 
+  fill(255, 204);
+  rect(mouseX, height/2, mouseY/2+10, mouseY/2+10);
+  fill(255, 204);
+  int inverseX = width-mouseX;
+  int inverseY = height-mouseY;
+  rect(inverseX, height/2, (inverseY/2)+10, (inverseY/2)+10);
+}
+ ```
