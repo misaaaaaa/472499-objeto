@@ -4,17 +4,17 @@ Bitácora del curso Tecnología Aplicada III: Objeto - 2026
 
 Programa del curso: [./archivos/objeto-programa.pdf](./archivos/objeto-programa.pdf)
 
-## Horario
+## Horario (desde 23 abril)
 
-08:30 Llegada
+09:15 Llegada
 
-09:00 Asistencia y primera parte
+09:30 Asistencia y primera parte
 
-10:30 Receso
+10:45 Receso
 
-10:45 Segunda parte de clase
+11:00 Segunda parte de clase
 
-11:45 Fin
+12:30 Fin
 
 ## Calendario
 
