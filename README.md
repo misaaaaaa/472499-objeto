@@ -14,7 +14,7 @@ Programa del curso: [./archivos/objeto-programa.pdf](./archivos/objeto-programa.
 
 11:00 Segunda parte de clase
 
-12:30 Fin
+12:45 Fin
 
 ## Calendario
 
