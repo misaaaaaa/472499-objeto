@@ -1,5 +1,9 @@
 # Clase 06
 
+### Anotaciones de la clase:
+- Nivelación sobre el manejo de Github y reorganización de las bitácoras de los estudiantes.
+- Explicación sobre lo que es un objeto según Graham Harman: Todo objeto tiene una composición y una relación. Las cualidades de los objetos pueden cambiar porque varían con el tiempo. Las metáforas combinan propiedades disímiles no esenciales de 2 objetos. Un objeto metafórico.
+
  Acá puedo anotar cosas
 
  Aprendimos a entrar en el editor de GitHub utilizando el punto (.)
