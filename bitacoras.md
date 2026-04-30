@@ -4,7 +4,7 @@
 | DIETHELM FLORES JAVIERA FERNANDA          | https://github.com/Javiera-Diethelm/472499-objeto-bitacora    |
 | FIERRO VALDÉS MANUEL ALEXIS               | https://github.com/Mvnafv                                     |
 | GÓMEZ GUENUL ISABELA FRANCISCA            | https://github.com/isafrgmz/472499-objeto-bitacora            |
-| MARDONES BARRIENTOS IGNACIO SALVADOR      | https://github.com/SvtrWilly/Tec.-Aplicada-Objeto-            |
+| MARDONES BARRIENTOS IGNACIO SALVADOR      | https://github.com/SvtrWilly/TECNOLOG-A-APLICADA---OBJETO     |
 | MELÉNDEZ SIERRA LUCIANA                   | https://github.com/Luciana1010101001010/Tecnolog-a-aplicada   |
 | PÉREZ FAÚNDES CONSTANZA ESTEFANIA         | https://github.com/constanzaperez1/472499-objeto-bitacora     |
 | SEGUEL CARO ANASTASIA SOFÍA               | https://github.com/ansofivv/472499--objeto-bitacora/tree/main |

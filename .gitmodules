@@ -10,9 +10,6 @@
 [submodule "bitacoras/isafrgmz"]
 	path = bitacoras/isafrgmz
 	url = https://github.com/isafrgmz/472499-objeto-bitacora
-[submodule "bitacoras/SvtrWilly"]
-	path = bitacoras/SvtrWilly
-	url = https://github.com/SvtrWilly/Tec.-Aplicada-Objeto-
 [submodule "bitacoras/Luciana1010101001010"]
 	path = bitacoras/Luciana1010101001010
 	url = https://github.com/Luciana1010101001010/Tecnolog-a-aplicada
@@ -37,3 +34,6 @@
 [submodule "bitacoras/ozmental"]
 	path = bitacoras/ozmental
 	url = https://github.com/ozmental/472499-objeto-bitcora
+[submodule "bitacoras/SvtrWilly"]
+	path = bitacoras/SvtrWilly
+	url = https://github.com/SvtrWilly/TECNOLOG-A-APLICADA---OBJETO
