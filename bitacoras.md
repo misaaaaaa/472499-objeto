@@ -2,7 +2,7 @@
 |-------------------------------------------|---------------------------------------------------------------|
 | ARANCIBIA NAVARRETE JORGE ALFONSO         | https://github.com/JorgeArancibiaaa4/472499-objeto-bitacora   |
 | DIETHELM FLORES JAVIERA FERNANDA          | https://github.com/Javiera-Diethelm/472499-objeto-bitacora    |
-| FIERRO VALDÉS MANUEL ALEXIS               | https://github.com/Mvnafv                                     |
+| FIERRO VALDÉS MANUEL ALEXIS               | https://github.com/Mvnafv/472499--objeto-bitacora             |
 | GÓMEZ GUENUL ISABELA FRANCISCA            | https://github.com/isafrgmz/472499-objeto-bitacora            |
 | MARDONES BARRIENTOS IGNACIO SALVADOR      | https://github.com/SvtrWilly/TECNOLOG-A-APLICADA---OBJETO     |
 | MELÉNDEZ SIERRA LUCIANA                   | https://github.com/Luciana1010101001010/Tecnolog-a-aplicada   |

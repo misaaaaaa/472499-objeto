@@ -40,3 +40,6 @@
 [submodule "bitacoras/JSNorambuena"]
 	path = bitacoras/JSNorambuena
 	url = https://github.com/JSNorambuena/472499-objeto-bitacora
+[submodule "bitacoras/Mvnafv"]
+	path = bitacoras/Mvnafv
+	url = https://github.com/Mvnafv/472499--objeto-bitacora
