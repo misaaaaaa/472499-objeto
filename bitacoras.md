@@ -13,6 +13,6 @@
 | VARGAS GONZÁLEZ ANAIZ TAMAR               | https://github.com/anaizvargas/472499-objeto.bitacora         |
 | JAZMIN CATALINA DEL CARMEN SANTANDER LEÓN | https://github.com/JazHachi/472499-Objeto-Bitacora            |
 | ARCOS ALONDRA                             | https://github.com/alondraarcos-jpg/472499-objeto-bitacora    |
-| BRIONES SALO                              |                                                               |
+| BRIONES SALO                              | https://github.com/SaloBriones/Objeto-2026-Uniacc                 |
 | ESCOBAR NATALIA                           | https://github.com/ozmental/472499-objeto-bitcora             |
 

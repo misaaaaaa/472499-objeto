@@ -43,3 +43,6 @@
 [submodule "bitacoras/Mvnafv"]
 	path = bitacoras/Mvnafv
 	url = https://github.com/Mvnafv/472499--objeto-bitacora
+[submodule "bitacoras/SaloBriones"]
+	path = bitacoras/SaloBriones
+	url = https://github.com/SaloBriones/Objeto-2026-Uniacc
