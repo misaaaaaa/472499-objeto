@@ -15,6 +15,7 @@
     - Integrantes
     - Statement de la obra
     - Imagen de referencia del trabajo
+    - Dimensiones
    
 - Ideas nombre
   - La uniacc tiene hambre
