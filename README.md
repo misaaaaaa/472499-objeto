@@ -84,3 +84,9 @@ Nota final: 30% nota de examen + 70% nota de presentación
 * 📘 Yuk Hui: ¿Qué es un objeto digital? <https://drive.google.com/file/d/1Im7rXM7VRsU0kc3dTph2kSMmRbEARIi5/view?usp=drive_link>
 
 * The Coding Train <https://thecodingtrain.com/>
+
+## Para actualizar submódulos
+
+```
+git submodule update --remote --merge bitacoras/
+```
